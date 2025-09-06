@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757130321,
+	"version": 1757167981,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,7 @@
 		"images/sprite2-sheet0.png",
 		"images/fingerprint-sheet0.png",
 		"images/fingerpress-sheet0.png",
+		"images/fingerpress-sheet1.png",
 		"images/fingerlight-sheet0.png",
 		"images/spritefont3.png",
 		"images/clock-sheet0.png",
