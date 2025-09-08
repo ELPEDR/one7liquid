@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1757168161,
+	"version": 1757362016,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -68,6 +68,7 @@
 		"images/blurapps-sheet2.png",
 		"images/sprite9-sheet0.png",
 		"images/sprite10-sheet0.png",
+		"images/fingerpress3-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
